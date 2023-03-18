@@ -1,2 +1,2 @@
 # Jquery-test
-Tested JQUERY  function how its working
+Tested JQUERY  function's how its working
